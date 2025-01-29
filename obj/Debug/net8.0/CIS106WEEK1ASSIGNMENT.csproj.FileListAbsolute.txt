@@ -1,0 +1,15 @@
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/bin/Debug/net8.0/CIS106WEEK1ASSIGNMENT
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/bin/Debug/net8.0/CIS106WEEK1ASSIGNMENT.deps.json
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/bin/Debug/net8.0/CIS106WEEK1ASSIGNMENT.runtimeconfig.json
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/bin/Debug/net8.0/CIS106WEEK1ASSIGNMENT.dll
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/bin/Debug/net8.0/CIS106WEEK1ASSIGNMENT.pdb
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.AssemblyInfoInputs.cache
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.AssemblyInfo.cs
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.csproj.CoreCompileInputs.cache
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.sourcelink.json
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.dll
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/refint/CIS106WEEK1ASSIGNMENT.dll
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.pdb
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/CIS106WEEK1ASSIGNMENT.genruntimeconfig.cache
+/Users/andrew.mcinally/c-sharp/CIS106WEEK1ASSIGNMENT/obj/Debug/net8.0/ref/CIS106WEEK1ASSIGNMENT.dll
